@@ -2,6 +2,10 @@ title{
     color: green;
 }
 
+.p1{
+    font-size: 1.1em;
+}
+
 h2{
     color: gold;
 }
@@ -16,4 +20,25 @@ h3{
 
 .even{
     color: yellowgreen
+}
+
+.d1{
+    background-color: black;   
+    width: 60%;
+    height: 500px;
+}
+
+.arijit-2{
+    width: 50%;
+}
+
+.d2{
+    background-color: black;   
+    width: 60%;
+    height: 500px;
+}
+
+.arijit-3{
+    width: 50vw;
+    height: 40vh;
 }
